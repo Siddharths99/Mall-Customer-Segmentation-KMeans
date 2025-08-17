@@ -24,6 +24,20 @@ This project performs customer segmentation on the Mall Customers dataset using 
 
 -------------------------
 
+## 🛠 Changes Made
+
+Dataset Loading – Updated the code to load the Mall_Customers dataset using pd.read_csv("Mall_Customers.csv").
+
+Feature Selection – Chose Annual Income and Spending Score columns as features for clustering.
+
+Elbow Method – Implemented to automatically find the best value of K.
+
+Cluster Visualization – Added plots to clearly display customer groups with different colors.
+
+Evaluation – Included Silhouette Score to check the quality of the clusters.
+
+------------------------------------
+
 ## 📌 Conclusion  
 
 - **The Elbow Method suggested the optimal number of clusters as K = 4.**
