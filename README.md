@@ -18,13 +18,13 @@ This project performs customer segmentation on the Mall Customers dataset using 
 
 ------------------------
 
-## ⚙️ Installation
+⚙️ Installation
 
 - **pip install pandas numpy matplotlib scikit-learn**
 
 -------------------------
 
-## 🛠 Changes Made
+ 🛠 Changes Made
 
 - **Dataset Loading – Updated the code to load the Mall_Customers dataset using pd.read_csv("Mall_Customers.csv").**
 
@@ -38,7 +38,7 @@ This project performs customer segmentation on the Mall Customers dataset using 
 
 ------------------------------------
 
-## 📌 Conclusion  
+ 📌 Conclusion  
 
 - **The Elbow Method suggested the optimal number of clusters as K = 4.**
 
