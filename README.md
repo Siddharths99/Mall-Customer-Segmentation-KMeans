@@ -24,6 +24,8 @@ This project performs customer segmentation on the Mall Customers dataset using 
 
 -------------------------
 
+## 📌 Conclusion  
+
 - **The Elbow Method suggested the optimal number of clusters as K = 4.**
 
 - **The K-Means algorithm grouped customers into 4 distinct clusters based on Annual Income and Spending Score.**
